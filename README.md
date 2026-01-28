@@ -15,6 +15,11 @@ Extract meaningful numerical features
 
 Classify domains based on learned characteristics
 
+
+Collect the dataset from:
+* Data set (sample) DGA - https://raw.githubusercontent.com/andrewaeva/DGA/refs/heads/master/all_dga.txt
+* Data set (sample) non-DGA domain names - https://radar.cloudflare.com/domains 
+
 🛠️ Technologies Used
 
 Language: Python
